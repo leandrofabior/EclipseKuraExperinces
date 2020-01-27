@@ -441,7 +441,7 @@
       </setupTask>
       <setupTask
           xsi:type="launching:LaunchTask"
-          launcher="setups/launchers/build-target-platform.launch"/>
+          launcher="kura/setups/launchers/build-target-platform.launch"/>
     </setupTask>
   </setupTask>
   <setupTask
